@@ -4,7 +4,7 @@ Personal notes for UMAD
 
 - Currently a WIP and frequently updated, check regularly and as such my notes on this mit plan my be out of date
 
-[Notes on Ikuya's UMAD mitty for my static comp](/mitPLan/IkuyaMittyNotes.md)
+[Notes on Ikuya's UMAD mitty for my static comp](/mitPlan/IkuyaMittyNotes.md)
 
 [UMAD timeline](/mitPlan/timeline.md)
 
