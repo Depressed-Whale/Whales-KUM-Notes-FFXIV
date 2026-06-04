@@ -21,6 +21,7 @@
     - Constellation 1 as kb'd
     - Constellation 2 after gravity pops before Light of Judgement
 - Veil as being kb'd
+- Moving Lilybell to Second set as have lilies + assize to heal up from set 1
 
 ## Light of Judgement @ 02:12:xx
 
