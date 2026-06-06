@@ -4,6 +4,7 @@
 
 - Natures Minne around first hit
 - Deploy Spreadlo immediately after second hit
+    - Deploy off caster if tank is using invuln on buster
  
 ## Mystery Magic
 
