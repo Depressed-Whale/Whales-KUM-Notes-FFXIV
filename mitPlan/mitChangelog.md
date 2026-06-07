@@ -1,5 +1,14 @@
 # Changelog
 
+## 07/06/2026
+
+- Added Ot party mit to Mystery Magic 
+    - War/Pld use after second hit of tb
+    - Drk/Gnb use during Graven Image Cast
+- Changed Tank Mit notes for War/Pld
+    - Ikuya changed back to orignal plan for p1 of ks, ks, pld invuln, ks
+        - this is to get holmgang for opener tb of p2 and exdeth tb for p3
+
 ## 05/06/2026
 
 - Created copy from Ikuya's mitty

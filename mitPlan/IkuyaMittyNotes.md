@@ -8,6 +8,7 @@
  
 ## Mystery Magic
 
+- Divine Veil immediately after second hit of revolting ruin II
 - Shake After stack/spread
 - Fey Illumination as soon as fairy gets back from their break 
 - Divine Caress after Stack/Spread
@@ -34,4 +35,4 @@
 ## Arrows
 
 - 20s mit before KB
-- 15s mit just before tethers resolve (roughly 1.5 gcds or 3.5s)
+- 15s mit just before tethers resolve (roughly 1.5 gcds or 3.5s after KB)
